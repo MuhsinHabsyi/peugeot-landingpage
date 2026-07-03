@@ -1,0 +1,14 @@
+@import "./reset.css";
+@import "./variables.css";
+@import "./typography.css";
+
+@import "./home.css";
+@import "./product-detail.css";
+@import "./cart.css";
+
+body {
+  background-color: var(--dark);
+  color: var(--secondary);
+  overflow-x: hidden;
+}
+

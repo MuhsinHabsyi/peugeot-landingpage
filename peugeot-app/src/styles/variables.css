@@ -1,0 +1,17 @@
+:root {
+  --primary: #ed1d24;
+  --secondary: #ffffff;
+  --dark: #0d0d0d;
+  --dark-light: #151515;
+  --text-muted: rgba(255, 255, 255, 0.7);
+  --text-gray: #777777;
+  
+  --font-title: 'Rajdhani', sans-serif;
+  --font-body: 'Ubuntu', sans-serif;
+  --font-sub: 'Heebo', sans-serif;
+  --font-btn: 'Roboto', sans-serif;
+  
+  --container: 1280px;
+  --transition: 0.3s ease;
+  --transition-slow: 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+}
